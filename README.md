@@ -1,6 +1,6 @@
 # Customer-Segmentation-Clustering
 
-# 🏆 K-Means Clustering Project
+# 🏆 K-Means Clustering 
 
 ## 📌 Introduction
 This project demonstrates **K-Means Clustering**, an unsupervised machine learning algorithm used for grouping similar data points into clusters. The **Elbow Method** is applied to determine the optimal number of clusters.
